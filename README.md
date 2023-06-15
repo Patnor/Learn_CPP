@@ -20,11 +20,10 @@
     <li>Books:
       <ul>
         <li>"The C++ Programming Language" by Bjarne Stroustrup</li>
-        <li>"C++ Primer" by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo</li>
-        <li>"Effective Modern C++" by Scott Meyers</li>
+        
       </ul>
     </li>
   </ul>
   <h2>License</h2>
-  <p>This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for personal or educational purposes.</p>
+  <p>This project was created by Patrick, Micah, and Sammy. Feel free to use, modify, and distribute the code for personal or educational purposes.</p>
   <p>Happy coding and enjoy your journey of learning C++ with Learn_CPP!</p>
