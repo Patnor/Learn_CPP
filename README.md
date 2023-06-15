@@ -19,8 +19,7 @@
     <li><a href="https://en.cppreference.com/w/">C++ documentation</a></li>
     <li>Books:
       <ul>
-        <li>"The C++ Programming Language" by Bjarne Stroustrup</li>
-        
+        <li>"The C++ Programming Language" by Bjarne Stroustrup</li>      
       </ul>
     </li>
   </ul>
