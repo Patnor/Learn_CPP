@@ -4,7 +4,7 @@
   <p>To start learning C++ with this project, follow these steps:</p>
   <ol>
     <li>Clone the repository to your local machine using the following command:</li>
-    <pre><code>git clone [https://github.com/your-username/Learn_CPP](https://github.com/Patnor/Learn_CPP).git</code></pre>
+    <pre><code>git clone https://github.com/Patnor/Learn_CPP</code></pre>
     <li>Set up your development environment. Ensure that you have a compatible C++ compiler installed on your machine. You can use popular compilers such as GCC or Clang.</li>
     <li>Explore the project's directory structure. The repository is organized into different modules and topics, each focusing on specific aspects of the C++ language. Start with the fundamentals and gradually progress to more advanced concepts.</li>
     <li>Dive into the code examples, exercises, and projects available in each module. The examples provide practical demonstrations of C++ features, while the exercises challenge you to apply your knowledge.</li>
